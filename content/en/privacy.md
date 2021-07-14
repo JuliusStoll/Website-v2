@@ -12,7 +12,6 @@ header:
   image: ""
 ---
 
-<h1>Disclaimer</h1>
 
 <h1>Interpretation and Definitions</h1>
 <h2>Interpretation</h2>
