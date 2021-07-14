@@ -1,5 +1,5 @@
 ---
-title: TEST TEST Comparing Regulatory Designs for the Transmission of Offshore Wind Energy
+title: Comparing Regulatory Designs for the Transmission of Offshore Wind Energy
 subtitle: ""
 publication_types:
   - "2"
