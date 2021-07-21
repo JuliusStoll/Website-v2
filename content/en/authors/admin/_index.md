@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Applied Microeconomics
+  - course: PhD in Economics
     institution: Hertie School
     year: current
   - course: MSc in Behavioural Economics
