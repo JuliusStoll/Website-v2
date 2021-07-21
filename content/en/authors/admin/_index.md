@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: PhD in Applied Microeconomics
-    institution: Stanford University
+    institution: Hertie School
     year: current
   - course: MSc in Behavioural Economics
     institution: University of Nottingham
