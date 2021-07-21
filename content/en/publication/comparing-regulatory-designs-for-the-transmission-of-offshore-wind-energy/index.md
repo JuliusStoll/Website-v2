@@ -48,6 +48,7 @@ url_pdf: https://www.proquest.com/docview/2522437986?pq-origsite=gscholar&fromop
 featured: true
 image:
   filename: "Girard, Kemfert, Stoll (2021) Comparing Regulatory Designs for the Transmission of Offshore Wind Energy.pdf"
+  caption: 'Offshore transmission accounts for 30% of electricity cost.'
   focal_point: ""
   preview_only: false
 date: 2021-05-21T13:15:37.824Z
