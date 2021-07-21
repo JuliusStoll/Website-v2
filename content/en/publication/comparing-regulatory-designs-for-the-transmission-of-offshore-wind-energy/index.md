@@ -45,7 +45,7 @@ abstract: >-
   transmission availability.
 draft: false
 url_pdf: https://www.proquest.com/docview/2522437986?pq-origsite=gscholar&fromopenview=true
-featured: false
+featured: true
 image:
   filename: "Girard, Kemfert, Stoll (2021) Comparing Regulatory Designs for the Transmission of Offshore Wind Energy.pdf"
   focal_point: ""
