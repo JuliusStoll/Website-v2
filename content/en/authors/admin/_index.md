@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Behavioral sciences  
+- Behavioral Sciences  
 - Applied Microeconomics
 - Causal Inference
 
