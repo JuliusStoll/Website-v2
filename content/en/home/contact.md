@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: How to reach me
+title: How to <br>reach me
 subtitle:
 
 content:
