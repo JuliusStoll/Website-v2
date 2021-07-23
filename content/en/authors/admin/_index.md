@@ -14,7 +14,7 @@ organizations:
   url: https://www.hertie-school.org/en/who-we-are/profile/person/stoll
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I use data and economic theory to explore human behavior. 
 
 # Interests to show in About widget
 interests:
@@ -26,15 +26,13 @@ interests:
 education:
   courses:
   - course: PhD in Economics
-    institution: Hertie School
-    year: current
+    institution: Hertie School, current
+    
   - course: MSc in Behavioural Economics
-    institution: University of Nottingham
-    year: 2020
+    institution: University of Nottingham, 2020
   - course: BA in Corporate Management & Economics
-    institution: Zeppelin University
-    year: 2018
-
+    institution: Zeppelin University, 2018
+   
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -66,7 +64,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Thanks for stopping by. My name is Julius and I use data and economic theory to explore human behavior. In my current PhD at Hertie School, I study why people are honest, why real estate agents are so expensive and if alcohol causes violent crime. 
 
-I use data and economic theory to explore human behavior. Previously, I have served as consultant and analyst in the private sector. 
+Evidently, I prefer ideas over disciplines. If you have or want to discuss any of those, reach out to me.
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
