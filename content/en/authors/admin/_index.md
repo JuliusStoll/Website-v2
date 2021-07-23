@@ -64,7 +64,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
+<br>
 Thanks for stopping by. My name is Julius and I use data and economic theory to explore human behavior. In my current PhD at Hertie School, I study why people are honest, why real estate agents are so expensive and if alcohol causes violent crime. Evidently, instead of disciplines, I follow ideas. If you have any of those, reach out to me.
 
 
