@@ -18,13 +18,7 @@ abstract: >-
 
   offshore transmission asset is costly and regulated differently across the globe.
 
-  In most countries, the TSO is responsible for the transmission and develops and
-
-  operates the asset separately from the offshore wind farm. Other countries have
-
-  established a competitive tender with integrated development of the offshore wind
-
-  farm and the transmission asset. However, there is so far no empirical analysis of
+  So far, there is no empirical analysis of
 
   the economic benefits of different regulatory designs regarding the offshore transmission
 
@@ -32,15 +26,13 @@ abstract: >-
 
   assets that compares empirical cost and quality of offshore transmission assets in
 
-  two countries with different regulatory regimes for the first time. With project level
+  two countries with different regulatory regimes. With project level
 
-  data we can control for geographical as well as technical difference to assess which
+  data we can control for geographical and technical difference to assess which
 
   regulatory design might lead to lower economic costs for the offshore transmission
 
-  asset. Comparing the cost in the two leading countries for offshore wind energy,
-
-  we find that a competitive regime leads to lower transmission cost and similar
+  asset. We find that a competitive regime that promotes the integration of wind farm and transmission leads to lower transmission cost and similar
 
   transmission availability.
 draft: false
