@@ -71,3 +71,4 @@ Thanks for stopping by. My name is Julius and I use data and economic theory to 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Julius_Stoll.pdf" "newtab" >}}CV{{< /staticref >}}.
+---
