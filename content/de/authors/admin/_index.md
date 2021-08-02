@@ -64,5 +64,5 @@ email: ""
 highlight_name: false
 ---
 
-Danke für den Halt. Mein Name ist Julius und ich verbinde Daten mit ökonomischer Theorie, um menschliches Verhalten zu untersuchen. In meiner derzeitigen Promotion an der Hertie School in Berlin erforsche ich weshalb Menschen ehrlich sind, warum Immobilienmakler so teuer sind und ob ein Zusammenhang zwischen Alkohol und Verbrechen besteht. Kurzum: Statt Disziplinen folge ich lieber Ideen. Wenn Du welche davon hast oder besprechen möchtest, freue ich mich von Dir zu hören.  
+Danke für's Vorbeischauen. Ich bin Julius und ich verbinde Daten mit ökonomischer Theorie, um menschliches Verhalten zu untersuchen. In meiner derzeitigen Promotion an der Hertie School in Berlin erforsche ich weshalb Menschen ehrlich sind, warum Immobilienmakler so teuer sind und ob ein Zusammenhang zwischen Alkohol und Verbrechen besteht. Kurzum: Statt Disziplinen folge ich lieber Ideen. Wenn Du welche davon hast oder besprechen möchtest, freue ich mich von Dir zu hören.  
 
