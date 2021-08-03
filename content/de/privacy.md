@@ -18,7 +18,7 @@ Rigaer Stra&szlig;e 100<br />
 10247 Berlin</p>
 
 <h2>Kontakt</h2>
-<p>Telefon: 01622783313<br />
+<p>Telefon: 0162 2783313<br />
 E-Mail: julius.stoll@gmail.com</p>
 
 <h2>Redaktionell verantwortlich</h2>
