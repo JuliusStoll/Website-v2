@@ -18,11 +18,7 @@ abstract: >-
 
   offshore transmission asset is costly and regulated differently across the globe.
 
-  So far, there is no empirical analysis of
-
-  the economic benefits of different regulatory designs regarding the offshore transmission
-
-  assets. In this paper, we collect a unique data set on offshore transmission
+  In this paper, we collect a unique data set on offshore transmission
 
   assets that compares empirical cost and quality of offshore transmission assets in
 
