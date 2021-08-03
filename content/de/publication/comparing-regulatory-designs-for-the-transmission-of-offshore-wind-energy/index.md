@@ -24,11 +24,7 @@ abstract: >-
 
   established a competitive tender with integrated development of the offshore wind
 
-  farm and the transmission asset. However, there is so far no empirical analysis of
-
-  the economic benefits of different regulatory designs regarding the offshore transmission
-
-  assets. In this paper, we collect a unique data set on offshore transmission
+  farm and the transmission asset. In this paper, we collect a unique data set on offshore transmission
 
   assets that compares empirical cost and quality of offshore transmission assets in
 
