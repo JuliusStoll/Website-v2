@@ -9,7 +9,7 @@ doi: 10.5547/2160-5890.10.1.ygir
 publication: Economics of Energy & Environmental Policy. Vol. 10, No. 1
 publication_short: ""
 abstract: >-
-  Offshore wind plays an ever-increasing role for the global transition to
+ Offshore wind plays an ever-increasing role for the global transition to
   renewable
 
   energy. For offshore wind energy to be successful, cost-effective transport of the
@@ -18,25 +18,15 @@ abstract: >-
 
   offshore transmission asset is costly and regulated differently across the globe.
 
-  In most countries, the TSO is responsible for the transmission and develops and
+  In this paper, we collect a unique data set that allows to compare empirical cost and quality of offshore transmission assets in
 
-  operates the asset separately from the offshore wind farm. Other countries have
+  two countries with different regulations. With project level
 
-  established a competitive tender with integrated development of the offshore wind
-
-  farm and the transmission asset. In this paper, we collect a unique data set on offshore transmission
-
-  assets that compares empirical cost and quality of offshore transmission assets in
-
-  two countries with different regulatory regimes for the first time. With project level
-
-  data we can control for geographical as well as technical difference to assess which
+  data we can control for geographical and technical difference to assess which
 
   regulatory design might lead to lower economic costs for the offshore transmission
 
-  asset. Comparing the cost in the two leading countries for offshore wind energy,
-
-  we find that a competitive regime leads to lower transmission cost and similar
+  asset. We find that a competitive regime that promotes the integration of wind farm and transmission leads to lower transmission cost and similar
 
   transmission availability.
 draft: false
