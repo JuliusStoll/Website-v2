@@ -18,11 +18,9 @@ abstract: >-
 
   offshore transmission asset is costly and regulated differently across the globe.
 
-  In this paper, we collect a unique data set on offshore transmission
+  In this paper, we collect a unique data set that allows to compare empirical cost and quality of offshore transmission assets in
 
-  assets that compares empirical cost and quality of offshore transmission assets in
-
-  two countries with different regulatory regimes. With project level
+  two countries with different regulations. With project level
 
   data we can control for geographical and technical difference to assess which
 
