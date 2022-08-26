@@ -1,12 +1,8 @@
 ---
 title: The Cost of Honesty: Field Evidence
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: 
 
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Link this post with a project
-projects: []
+# The Cost of Honesty: Field Evidence
 
 # Date updated
 lastmod: "2022-08-26T00:00:00Z"
