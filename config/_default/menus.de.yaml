@@ -10,7 +10,7 @@ main:
   - name: Publikationen
     url: '#featured'
     weight: 20
-  - name: Posts
+  - name: Projekte
     url: '#posts'
     weight: 30
   - name: Kontakt
