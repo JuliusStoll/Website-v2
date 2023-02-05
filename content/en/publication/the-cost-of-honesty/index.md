@@ -12,7 +12,7 @@ abstract: >-
   This paper studies honesty in the face of changing cost. 
 
   Using field data from a snack delivery company that employs an honesty payment system, the paper presents an event-study to analyze how price increases affect pay rates.
-
+The honesty payment system expects customers to pay a listed price for each consumed snack. This allows to measure honesty with the pay rate that compares consumption to payments. The results, which draw on deliveries from several thousand firms, show that price increases that make honest behavior more costly cause more cheating. Price increases of 15\% trigger a fall in pay rates of 11\%.
  
 draft: false
 url_pdf: https://www.proquest.com/docview/2522437986?pq-origsite=gscholar&fromopenview=true
