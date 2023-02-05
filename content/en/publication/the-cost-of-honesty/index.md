@@ -24,5 +24,5 @@ image:
   caption: 'Offshore transmission accounts for 30% of electricity cost from offshore wind farms.'
   focal_point: ""
   preview_only: false
-date: 2021-05-21T13:15:37.824Z
+date: 2022-12-21T13:15:37.824Z
 ---
