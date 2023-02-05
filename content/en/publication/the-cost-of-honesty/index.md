@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - 
-doi: 10.5547/2160-5890.10.1.ygir
+doi: 10.1016/j.socec.2022.101943
 publication: Economics of Energy & Environmental Policy. Vol. 10, No. 1
 publication_short: ""
 abstract: >-
