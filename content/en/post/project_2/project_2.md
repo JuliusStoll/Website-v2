@@ -1,5 +1,5 @@
 ---
-title: 'Gift that keeps giving: Measuring regional trust with a field experiment across Europe'
+title: 'A gift that keeps giving: Measuring regional trust with a field experiment across Europe'
 
 
 # Summary for listings and search engines
@@ -7,7 +7,7 @@ title: 'Gift that keeps giving: Measuring regional trust with a field experiment
 
 
 # Date updated
-lastmod: "2023-01-20T00:00:00Z"
+lastmod: "2022-12-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
