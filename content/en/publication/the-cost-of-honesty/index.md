@@ -1,5 +1,5 @@
 ---
-title: Comparing Regulatory Designs for the Transmission of Offshore Wind Energy
+title: The cost of honesty. Field evidence.
 subtitle: ""
 publication_types:
   - "2"
