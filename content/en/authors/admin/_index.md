@@ -18,14 +18,14 @@ bio: I use data and economic theory to explore human behavior.
 
 # Interests to show in About widget
 interests:
-- Behavioral Sciences  
 - Applied Microeconomics
+- Behavioral Public Policy
 - Causal Inference
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
+  - course: PhD student in Economics
     institution: Hertie School, current
     
   - course: MSc in Behavioural Economics
