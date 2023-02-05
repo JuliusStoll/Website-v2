@@ -1,5 +1,5 @@
 ---
-title: 'The Cost of Honesty: Field Evidence'
+title: 'A gift that keeps giving: Measuring regional trust with a field experiment across Europe'
 
 
 # Summary for listings and search engines
@@ -7,7 +7,7 @@ title: 'The Cost of Honesty: Field Evidence'
 
 
 # Date updated
-lastmod: "2022-08-20T00:00:00Z"
+lastmod: "2022-12-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -29,4 +29,3 @@ authors:
 
 ---
 
-This paper studies honesty in the face of changing cost. Using field data from a snack delivery company that employs an honesty payment system, the paper presents an event-study to analyze how price increases affect pay rates. The honesty payment system expects customers to pay a listed price for each consumed snack. This allows to measure honesty with the pay rate that compares consumption to payments. The results, which draw on deliveries from several thousand firms, show that price increases that make honest behavior more costly cause more cheating. Price increases of 15% trigger a fall in pay rates of 11%. 
