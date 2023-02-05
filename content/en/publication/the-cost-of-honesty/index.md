@@ -9,10 +9,9 @@ doi: 10.1016/j.socec.2022.101943
 publication: Journal of Behavioral and Experimental Economics. Vol. 101, Dezember 2022.
 publication_short: ""
 abstract: >-
-  Offshore wind plays an ever-increasing role for the global transition to
-  renewable
+  This paper studies honesty in the face of changing cost. 
 
-  energy. For offshore wind energy to be successful, cost-effective transport of the
+  Using field data from a snack delivery company that employs an honesty payment system, the paper presents an event-study to analyze how price increases affect pay rates.
 
   produced electricity to shore is necessary. The development and operation of the
 
