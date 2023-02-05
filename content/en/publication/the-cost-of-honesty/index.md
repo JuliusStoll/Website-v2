@@ -6,7 +6,7 @@ publication_types:
 authors:
   - 
 doi: 10.1016/j.socec.2022.101943
-publication: Economics of Energy & Environmental Policy. Vol. 10, No. 1
+publication: Journal of Behavioral and Experimental Economics. Vol. 101, Dezember 2022.
 publication_short: ""
 abstract: >-
   Offshore wind plays an ever-increasing role for the global transition to
