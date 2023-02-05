@@ -17,7 +17,7 @@ abstract: >-
   The results, which draw on deliveries from several thousand firms, show that price increases that make honest behavior more costly cause more cheating.
   Price increases of 15 percent trigger a fall in pay rates of 11 percent.
 draft: false
-url_pdf: Stoll_(2022)_The_cost_of_honesty_Field_evidence.pdf
+url_pdf: Stoll_2022_The_cost_of_honesty_Field_evidence.pdf
 featured: true
 image:
   filename: "Girard, Kemfert, Stoll (2021) Comparing Regulatory Designs for the Transmission of Offshore Wind Energy.pdf"
