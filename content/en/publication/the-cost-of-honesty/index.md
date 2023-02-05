@@ -17,7 +17,7 @@ abstract: >-
   The results, which draw on deliveries from several thousand firms, show that price increases that make honest behavior more costly cause more cheating.
   Price increases of 15 percent trigger a fall in pay rates of 11 percent.
 draft: false
-url_pdf: https://www.proquest.com/docview/2522437986?pq-origsite=gscholar&fromopenview=true
+url_pdf: uploads/CV_Julius_Stoll.pdf
 featured: true
 image:
   filename: "Girard, Kemfert, Stoll (2021) Comparing Regulatory Designs for the Transmission of Offshore Wind Energy.pdf"
