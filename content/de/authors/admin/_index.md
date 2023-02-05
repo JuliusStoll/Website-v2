@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
+  - course: PhD Student in Economics
     institution: Hertie School, aktuell
   - course: MSc in Behavioural Economics
     institution: University of Nottingham, 2020
@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-Ich bin Julius und ich verbinde Daten mit ökonomischer Theorie, um zu verstehen wie sich Menschen verhalten. In meiner Promotion erforsche ich, weshalb Menschen ehrlich sind, warum alle Immobilienmakler die gleiche Provision verlangen und ob es einen Zusammenhang zwischen Alkohol und Verbrechen in Preussen gab. 
+Ich verbinde Daten mit ökonomischer Theorie, um zu verstehen wie sich Menschen verhalten. In meiner Promotion erforsche ich, weshalb Menschen ehrlich sind, warum alle Immobilienmakler eine ähnliche Provision verlangen und ob es einen Zusammenhang zwischen Alkohol und Verbrechen in Preussen gab. 
 Kurzum: Statt Disziplinen folge ich lieber Ideen. Wenn Du welche davon hast oder besprechen möchtest, freue ich mich von Dir zu hören.  
 
