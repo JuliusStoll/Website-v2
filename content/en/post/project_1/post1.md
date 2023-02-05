@@ -7,7 +7,7 @@ title: 'Cozy commissions: Price competition among real estate agents and the rol
 
 
 # Date updated
-lastmod: "2022-08-20T00:00:00Z"
+lastmod: "2023-01-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
