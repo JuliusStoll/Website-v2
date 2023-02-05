@@ -1,18 +1,34 @@
 ---
-title: The cost of honesty: Field evidence
+title: Comparing Regulatory Designs for the Transmission of Offshore Wind Energy
 subtitle: ""
 publication_types:
   - "2"
 authors:
-  - with Julius Stoll
-doi: 10.1016/j.socec.2022.101943
-publication: Journal of Behavioral and Experimental Economics. Vol. 101, Dezember 2022
+  - with Yann Girard and Claudia Kemfert
+doi: 10.5547/2160-5890.10.1.ygir
+publication: Economics of Energy & Environmental Policy. Vol. 10, No. 1
 publication_short: ""
 abstract: >-
-  This paper studies honesty in the face of changing cost. Using field data from a snack delivery company that employs an honesty payment system, the paper presents an 
-  event-study to analyze how price increases affect pay rates. The honesty payment system expects customers to pay a listed price for each consumed snack. 
-  This allows to measure honesty with the pay rate that compares consumption to payments. The results, which draw on deliveries from several thousand firms, show that 
-  price increases that make honest behavior more costly cause more cheating. Price increases of 15% trigger a fall in pay rates of 11%.
+  Offshore wind plays an ever-increasing role for the global transition to
+  renewable
+
+  energy. For offshore wind energy to be successful, cost-effective transport of the
+
+  produced electricity to shore is necessary. The development and operation of the
+
+  offshore transmission asset is costly and regulated differently across the globe.
+
+  In this paper, we collect a unique data set that allows to compare cost and quality of offshore transmission assets in
+
+  two countries with different regulations. With project level
+
+  data we can control for geographical and technical difference to assess which
+
+  regulatory design might lead to lower economic costs for the offshore transmission
+
+  asset. We find that a competitive regime that promotes the integration of wind farm and transmission leads to lower transmission cost and similar
+
+  transmission availability.
 draft: false
 url_pdf: https://www.proquest.com/docview/2522437986?pq-origsite=gscholar&fromopenview=true
 featured: true
