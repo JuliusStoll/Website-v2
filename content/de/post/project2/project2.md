@@ -25,6 +25,9 @@ image:
 
 authors:
 - admin
+- Christian Traxler
+- Mark Kayser
+- Leonardo Iacovone
 
 
 ---
