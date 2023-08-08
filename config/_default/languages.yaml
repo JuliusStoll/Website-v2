@@ -1,8 +1,8 @@
 # Languages
 #   Create a section for each of your site's languages.
 #   Documentation: https://wowchemy.com/docs/guide/language/
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+#defaultContentLanguage: en
+#defaultContentLanguageInSubdir: true
 
 #Default language
 en:
