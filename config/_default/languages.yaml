@@ -1,11 +1,11 @@
 # Languages
 #   Create a section for each of your site's languages.
 #   Documentation: https://wowchemy.com/docs/guide/language/
-defaultContentLanguage: de
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 # Default language
 en:
-  languageCode: en-US
+  languageCode: en
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
