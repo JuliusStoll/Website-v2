@@ -4,15 +4,15 @@
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 # Default language
-en:
-  languageCode: en
-  contentDir: content/en
+#en:
+#  languageCode: en
+ # contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#de:
-#  languageCode: de-DE
-#  contentDir: content/de
-#  title: Julius Stoll
+de:
+  languageCode: de-DE
+  contentDir: content/de
+  title: Julius Stoll
 #  params:
 #    description: Site description in Chinese...
 #  menu:
