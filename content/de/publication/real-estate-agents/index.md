@@ -1,12 +1,12 @@
 ---
-title: The cost of honesty. Field evidence.
+title: How not to Reduce Commissions of Real Estate Agents. Evidence from Germany.
 subtitle: ""
 publication_types:
   - "2"
 authors:
   - 
 doi: 10.1016/j.socec.2022.101943
-publication: Journal of Behavioral and Experimental Economics. Vol. 101, Dezember 2022.
+publication: BSE Discussion Paper Series. #0026
 publication_short: ""
 abstract: >-
   This paper studies honesty in the face of changing cost. 
