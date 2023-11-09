@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - 
+  - Julius Stoll
 doi: 10.5547/2160-5890.10.1.ygir
 publication: BSE Discussion Paper Series
 publication_short: ""
