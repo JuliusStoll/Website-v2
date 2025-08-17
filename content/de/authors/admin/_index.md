@@ -6,12 +6,12 @@ title: Julius Stoll
 superuser: true
 
 # Role/position/tagline
-role: Doktorand
+role: Ökonom
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Hertie School
-  url: https://www.hertie-school.org/en/who-we-are/profile/person/stoll
+- name: Frontier Economics 
+  url: https://www.frontier-economics.com/de/de/ueber-uns/team/team-i20964-julius-stoll/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -19,16 +19,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Applied Microeconomics
-- Behavioral Policy
-- Causal Inference
+- Energy Economics
+- Policy
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD Student in Economics
-    institution: Hertie School, aktuell
+    institution: Hertie School, 2023 (Summa cum laude)
   - course: MSc in Behavioural Economics
-    institution: University of Nottingham, 2020
+    institution: University of Nottingham, 2020 (Distinction)
   - course: BA in Corporate Management & Economics
     institution: Zeppelin Universität, 2018
     
