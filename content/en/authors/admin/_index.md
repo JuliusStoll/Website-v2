@@ -6,30 +6,30 @@ title: Julius Stoll
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Hertie School
-  url: https://www.hertie-school.org/en/who-we-are/profile/person/stoll
+- name: Frontier Economics
+  url: https://www.frontier-economics.com/uk/en/about/people/people-i20964-julius-stoll/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I use data and economic theory to explore human behavior. 
 
 # Interests to show in About widget
 interests:
-- Applied Microeconomics
-- Behavioral Public Policy
-- Causal Inference
+- Competition Economics
+- Energy Economics
+- Policy
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD student in Economics
-    institution: Hertie School, current
+    institution: Hertie School, 2023 (summa cum laude)
     
   - course: MSc in Behavioural Economics
-    institution: University of Nottingham, 2020
+    institution: University of Nottingham, 2020 (distinction)
   - course: BA in Corporate Management & Economics
     institution: Zeppelin University, 2018
    
